@@ -1,5 +1,24 @@
 body {
   font-family: "Red Hat Display", sans-serif;
+  background-color: #d6e0fe;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+  max-width: 100%;
+  margin: 0 auto; /* Center the grid container */
+  margin-top: 3.1rem;
+  /* padding: 20px; 
+  box-sizing: border-box;  */
+}
+
+.hero-img {
+  padding: 0px;
+  width: 100%;
+  padding: 1.5rem;
+  box-sizing: border-box;
 }
 
 footer {
