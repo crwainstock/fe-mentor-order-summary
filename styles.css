@@ -54,7 +54,12 @@ body {
 
 .call-to-action button {
   width: 100%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
   background-color: hsl(245, 75%, 52%);
+  color: #ffff;
 }
 footer {
   margin-top: 3rem;
