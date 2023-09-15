@@ -29,6 +29,9 @@ body {
   box-sizing: border-box;
   border-radius: 0 0 20px 20px;
 }
+.text-container {
+  margin-top: 2rem;
+}
 
 footer {
   margin-top: 3rem;
