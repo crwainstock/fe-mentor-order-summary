@@ -26,12 +26,15 @@ body {
   width: 90%;
   margin: 1rem;
   margin-top: 0;
+  padding: 1.5rem;
   box-sizing: border-box;
   border-radius: 0 0 20px 20px;
 }
 .text-container {
-  margin-top: 2rem;
   text-align: center;
+}
+.text-container h2 {
+  margin-top: 0.5rem;
 }
 
 footer {
