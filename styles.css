@@ -46,6 +46,9 @@ body {
   line-height: 1.6;
 }
 
+.call-to-action {
+  text-align: center;
+}
 footer {
   margin-top: 3rem;
   text-align: center;
