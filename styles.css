@@ -60,6 +60,9 @@ body {
   padding-right: 2rem;
   background-color: hsl(245, 75%, 52%);
   color: #ffff;
+  font-size: 4vw;
+  font-weight: 700;
+  border-radius: 15px;
 }
 footer {
   margin-top: 3rem;
