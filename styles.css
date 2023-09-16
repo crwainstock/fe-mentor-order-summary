@@ -136,7 +136,9 @@ a:active {
   color: #99a0ae;
   font-weight: 700;
 }
-
+.call-to-action a:hover {
+  color: #766cf1;
+}
 footer {
   margin-top: 3rem;
   text-align: center;
