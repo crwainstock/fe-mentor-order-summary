@@ -2,9 +2,14 @@ body {
   font-family: "Red Hat Display", sans-serif;
   background-color: #d6e0fe;
 }
-a:hover a:active {
+a:hover {
   color: #766cf1;
 }
+
+a:active {
+  color: #766cf1;
+}
+
 .container {
   display: grid;
   grid-template-columns: 1fr;
@@ -107,10 +112,17 @@ a:hover a:active {
   padding-left: 2rem;
   padding-right: 2rem;
   background-color: hsl(245, 75%, 52%);
+  border-color: hsl(245, 75%, 52%);
+  border-style: solid;
   color: #ffff;
   font-size: 4vw;
   font-weight: 700;
   border-radius: 15px;
+}
+.call-to-action button:hover {
+  background-color: #766cf1;
+  border-color: #766cf1;
+  border-style: solid;
 }
 .call-to-action p {
   margin-top: 1.3rem;
