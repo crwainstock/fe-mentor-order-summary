@@ -151,4 +151,8 @@ footer {
   .details-container {
     max-width: 32%;
   }
+  .text-container h2 {
+    font-size: 2vw;
+    margin-top: 1rem;
+  }
 }
