@@ -110,6 +110,14 @@ body {
   font-weight: 700;
   border-radius: 15px;
 }
+.call-to-action p {
+  margin-top: 1.3rem;
+}
+.call-to-action a {
+  text-decoration: none;
+  color: #99a0ae;
+  font-weight: 700;
+}
 footer {
   margin-top: 3rem;
   text-align: center;
