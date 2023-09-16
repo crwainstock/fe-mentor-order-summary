@@ -20,7 +20,6 @@ I deployed the component with Netlify, though, so check that out [here](https://
 
 So, the last Frontend Mentor component I built involved using grid to arrange the layout. I'm happy to report that in this build, I was able to use grid to format the parts of the component by heart. ❤️ That's right! I looked at the design, drew a little picture of what the grid might look like to implement the layout, and then proceeded to write the CSS to create said layout WITHOUT GOOGLING ANYTHING. It was a phenomenal feeling. 🙂
 
-![grid drawing](./Screenshots/grid-drawing.jpeg)
 ![simple-grid](./Screenshots/simple-grid.png)
 ![grid-compare](./Screenshots/grid-compare.gif)
 
