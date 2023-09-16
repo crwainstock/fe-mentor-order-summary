@@ -141,3 +141,14 @@ footer {
   margin-top: 3rem;
   text-align: center;
 }
+
+/* Larger Screens */
+
+@media only screen and (min-width: 660px) {
+  .hero-img {
+    max-width: 32%;
+  }
+  .details-container {
+    max-width: 32%;
+  }
+}
