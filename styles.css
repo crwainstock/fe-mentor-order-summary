@@ -118,11 +118,13 @@ a:active {
   font-size: 4vw;
   font-weight: 700;
   border-radius: 15px;
+  cursor: pointer;
 }
 .call-to-action button:hover {
   background-color: #766cf1;
   border-color: #766cf1;
   border-style: solid;
+  cursor: pointer;
 }
 .call-to-action p {
   margin-top: 1.3rem;
