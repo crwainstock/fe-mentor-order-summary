@@ -48,6 +48,11 @@ body {
   line-height: 1.6;
 }
 
+.plan-container {
+  display: grid;
+  grid-template-columns: 2fr 3fr 2fr;
+}
+
 .call-to-action {
   text-align: center;
 }
