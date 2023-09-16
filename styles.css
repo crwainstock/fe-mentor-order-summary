@@ -2,7 +2,9 @@ body {
   font-family: "Red Hat Display", sans-serif;
   background-color: #d6e0fe;
 }
-
+a:hover a:active {
+  color: #766cf1;
+}
 .container {
   display: grid;
   grid-template-columns: 1fr;
@@ -118,6 +120,7 @@ body {
   color: #99a0ae;
   font-weight: 700;
 }
+
 footer {
   margin-top: 3rem;
   text-align: center;
