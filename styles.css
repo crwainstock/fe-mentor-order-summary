@@ -162,7 +162,7 @@ footer {
     padding: 0rem;
   }
   .grid-item-1 {
-    place-self: center;
+    margin-left: 1rem;
     margin-right: 0rem;
   }
   .grid-item-2 {
@@ -172,8 +172,9 @@ footer {
     font-size: 1.2vw;
   }
   .grid-item-4 {
-    font-size: 1.2vw;
+    font-size: 1vw;
     margin-left: 0rem;
+    margin-right: 1.6rem;
   }
   .call-to-action button {
     margin-top: 1rem;
