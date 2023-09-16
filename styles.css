@@ -158,4 +158,21 @@ footer {
   .text-container p {
     font-size: 1.18vw;
   }
+  .plan-container {
+    padding: 0rem;
+  }
+  .grid-item-1 {
+    place-self: center;
+    margin-right: 0rem;
+  }
+  .grid-item-2 {
+    font-size: 1.2vw;
+  }
+  .grid-item-3 {
+    font-size: 1.2vw;
+  }
+  .grid-item-4 {
+    font-size: 1.2vw;
+    margin-left: 0rem;
+  }
 }
