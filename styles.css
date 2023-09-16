@@ -64,6 +64,11 @@ body {
   grid-row: 1;
   place-self: center;
 }
+.grid-item-3 {
+  grid-column: 2 / 3;
+  grid-row: 2;
+  place-self: center;
+}
 
 .call-to-action {
   text-align: center;
